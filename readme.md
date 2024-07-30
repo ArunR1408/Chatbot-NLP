@@ -46,13 +46,6 @@ The main purposes of this project are:
 - Implement more advanced NLP techniques
 - Add machine learning capabilities for improved response generation
 
-## Contributors
-
-- Arun R
-- Nikhil Rajiv
-- Parthiv Bijumon Bhaskar
-- Sidharth P
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
